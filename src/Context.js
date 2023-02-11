@@ -22,7 +22,7 @@ const AppProvider = ({ children }) => {
             type: "Home_Update",
             payload: { 
                
-                heading: "Third Generation",
+                heading: "Third Generation Hardik",
                 subheading: "Future Of Innovation",
                 description: "This headphones brings emotion in your life. One thing which change your world is your own voice" ,
                 btntext:"Book Now",
